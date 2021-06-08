@@ -1,6 +1,6 @@
 # Multi-Blockchain Wallet in Python
 
-![tx_proof](Screenshots/proof_of_tx.png)
+![tx_proof](Screenshots/proof_of_tx.PNG)
 
 ```
 # Send transaction to Bitcoin Testnet Faucet
